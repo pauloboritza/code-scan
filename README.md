@@ -1,4 +1,4 @@
-# Development Client example
+# Barcode Scanner
 
 <p>
   <!-- iOS -->
